@@ -1,4 +1,4 @@
-20yrs+ in software engineering & leadership. Dad x3. Here to help with code, agile, product, SEO, and teams. I like grey, mnmlsm, scotch, F1 and watches.
+30yrs+ in technology. IT to development to senior management. Dad x3. Here to help with code, agile, product, SEO, and teams. I like grey, mnmlsm, scotch, F1 and watches.
 
 <!--
 **db/db** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
